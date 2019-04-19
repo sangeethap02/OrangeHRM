@@ -1,0 +1,69 @@
+[main] INFO  CommonFunctions.CommonFunction  - Application test begin
+[main] INFO  CommonFunctions.CommonFunction  - Loading the Config properties
+[main] INFO  CommonFunctions.CommonFunction  - Launched Chrome
+[main] INFO  CommonFunctions.CommonFunction  - Navigate to application URL
+[main] INFO  CommonFunctions.CommonFunction  - Maximize the application page
+[main] INFO  CommonFunctions.CommonFunction  - Logging in to OrangeHRM application
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Recuruitment page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Candidate page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Delete Candidate details
+[main] INFO  CommonFunctions.CommonFunction  - C:/Users/psang/workspace/automation/OrangeHRMDemoProject/OrangeHRM.xls
+[main] INFO  TestCases.add_Recruitment_Candidate  - 4
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Aldrin Peter
+[main] INFO  TestCases.add_Recruitment_Candidate  - Deleted Candidate details
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Prat  Solomon
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Amy Paul
+[main] INFO  TestCases.add_Recruitment_Candidate  - Deleted Candidate details
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Eva Jackson
+[main] INFO  TestCases.add_Recruitment_Candidate  - Deleted Candidate details
+[main] INFO  CommonFunctions.CommonFunction  - The browser is closed
+[main] INFO  CommonFunctions.CommonFunction  - Application test begin
+[main] INFO  CommonFunctions.CommonFunction  - Loading the Config properties
+[main] INFO  CommonFunctions.CommonFunction  - Launched Chrome
+[main] INFO  CommonFunctions.CommonFunction  - Navigate to application URL
+[main] INFO  CommonFunctions.CommonFunction  - Maximize the application page
+[main] INFO  CommonFunctions.CommonFunction  - Logging in to OrangeHRM application
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Recuruitment page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Candidate page successfully
+[main] INFO  CommonFunctions.CommonFunction  - C:/Users/psang/workspace/automation/OrangeHRMDemoProject/OrangeHRM.xls
+[main] INFO  TestCases.add_Recruitment_Candidate  - 4
+[main] INFO  TestCases.add_Recruitment_Candidate  - Aldrin,Peter,aldrin.peter@email.com,1234567890,Java
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Add Recuruitment page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Adding  Candidate details page
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully save a candidate
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully Clicked back button
+[main] INFO  TestCases.add_Recruitment_Candidate  - Prat ,Solomon,prat.solomon@email.com,9876543210,C++
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Add Recuruitment page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Adding  Candidate details page
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully save a candidate
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully Clicked back button
+[main] INFO  TestCases.add_Recruitment_Candidate  - Amy,Paul,amy.paul@email.com,1234567890,C
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Add Recuruitment page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Adding  Candidate details page
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully save a candidate
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully Clicked back button
+[main] INFO  TestCases.add_Recruitment_Candidate  - Eva,Jackson,eva.jackson@email.com,9876543210,PHP
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Add Recuruitment page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Adding  Candidate details page
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully save a candidate
+[main] INFO  TestCases.add_Recruitment_Candidate  - Successfully Clicked back button
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Recuruitment page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Navigated to Candidate page successfully
+[main] INFO  TestCases.add_Recruitment_Candidate  - Delete Candidate details
+[main] INFO  CommonFunctions.CommonFunction  - C:/Users/psang/workspace/automation/OrangeHRMDemoProject/OrangeHRM.xls
+[main] INFO  TestCases.add_Recruitment_Candidate  - 4
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Aldrin Peter
+[main] INFO  TestCases.add_Recruitment_Candidate  - Deleted Candidate details
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Prat  Solomon
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Amy Paul
+[main] INFO  TestCases.add_Recruitment_Candidate  - Deleted Candidate details
+[main] INFO  TestCases.add_Recruitment_Candidate  - The Full name is :Eva Jackson
+[main] INFO  TestCases.add_Recruitment_Candidate  - Deleted Candidate details
+[main] INFO  CommonFunctions.CommonFunction  - The browser is closed
+[main] INFO  CommonFunctions.CommonFunction  - Application test begin
+[main] INFO  CommonFunctions.CommonFunction  - Loading the Config properties
+[main] INFO  CommonFunctions.CommonFunction  - Launched Chrome
+[main] INFO  CommonFunctions.CommonFunction  - Navigate to application URL
+[main] INFO  CommonFunctions.CommonFunction  - Maximize the application page
+[main] INFO  CommonFunctions.CommonFunction  - Logging in to OrangeHRM application
+[main] INFO  CommonFunctions.CommonFunction  - The browser is closed

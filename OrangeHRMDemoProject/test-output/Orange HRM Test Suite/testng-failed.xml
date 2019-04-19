@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Orange HRM Test Suite]">
+  <test name="add Candidate details(failed)">
+    <classes>
+      <class name="TestCases.add_Recruitment_Candidate">
+        <methods>
+          <include name="Add_Candidate"/>
+        </methods>
+      </class> <!-- TestCases.add_Recruitment_Candidate -->
+      <class name="TestCases.Delete_Candidate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- TestCases.Delete_Candidate -->
+    </classes>
+  </test> <!-- add Candidate details(failed) -->
+  <test name="Delete Candidate details(failed)">
+    <classes>
+      <class name="TestCases.Delete_Candidate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Delete_Candidate_Details"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- TestCases.Delete_Candidate -->
+    </classes>
+  </test> <!-- Delete Candidate details(failed) -->
+</suite> <!-- Failed suite [Orange HRM Test Suite] -->

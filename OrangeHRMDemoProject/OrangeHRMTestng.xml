@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Orange HRM Test Suite">
+<!-- 
+<test name="Pending leave request Test case">
+<classes>
+<class name="TestCases.Pending_leaveRequest"></class>
+</classes>
+</test>
+
+<test name="Check user Role Test case">
+<classes>
+<class name="TestCases.Check_UserRole"></class>
+</classes>
+</test>-->
+
+<test name="add Candidate details">
+<classes>
+<class name="TestCases.add_Recruitment_Candidate"></class>
+</classes>
+</test>
+
+<test name="Delete Candidate details">
+<classes>
+<class name="TestCases.Delete_Candidate"></class>
+</classes>
+</test>
+
+
+
+</suite>
